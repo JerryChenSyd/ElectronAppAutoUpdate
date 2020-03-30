@@ -1,6 +1,6 @@
 {
   "name": "electronautoupdate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is simple Electron app to test AutoUpadte functions",
   "main": "index.js",
   "scripts": {
